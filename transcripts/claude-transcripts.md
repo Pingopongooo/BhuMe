@@ -1,9 +1,4 @@
-# IoU accuracy vs confidence calibration mismatch
 
-**Created:** 6/10/2026 13:01:46  
-**Updated:** 6/10/2026 14:21:58  
-**Exported:** 6/10/2026 15:23:33  
-**Link:** [https://claude.ai/chat/25967922-7b7f-48cf-8c7a-6c0647f7adf0](https://claude.ai/chat/25967922-7b7f-48cf-8c7a-6c0647f7adf0)  
 
 ## User:
 
@@ -1344,4 +1339,3 @@ That's the real reason — your pipeline needs **two rasters read in sync per pl
 
 If `boundaries.tif` didn't exist and you were deriving edges from the RGB itself (like Canny), `patch_for_plot` would have been the perfect fit and you could have used it directly instead of writing `edge_map` from scratch.
 
-Powered by Claude Exporter (https://www.ai-chat-exporter.net)

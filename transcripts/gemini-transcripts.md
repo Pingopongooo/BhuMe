@@ -1,7 +1,3 @@
-# Correcting Misaligned Land Boundaries
-
-**Exported:** 6/10/2026 15:18:08  
-**Link:** [https://gemini.google.com/app/5c013200c5dd3ea9](https://gemini.google.com/app/5c013200c5dd3ea9)
 
 ## Prompt:
 Understand: the ground-truth problem
@@ -2723,7 +2719,3 @@ Drop that `predictions.geojson` file into your browser portal and let it run. It
 
 Let me know how the portal reacts or if you are ready to tackle the next village dataset!
 
-
-
----
-Powered by [Gemini Exporter](https://www.ai-chat-exporter.com)
